@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Ajay Surya!</h2>
 
-<p><em>Pursuing B.Tech in AI at <a href="https://www.amrita.edu/">Amrita
+<p><em>Pursuing B.Tech in AI at <a href="https://www.amrita.edu/"> Amrita
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
