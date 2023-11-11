@@ -8,7 +8,7 @@
   🫂 Looking for a collaborator on DS and ML projects<br> 
   📖 I'm finding opportunities for research internships in Machine Learning<br>
 
-<h3 align="center">Tensorflow Developer | Data Science | Machine Learning | Image Processing</h3>
+<h3 align="center">Data Science | Machine Learning | Image Processing</h3>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
