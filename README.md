@@ -7,22 +7,19 @@
   Welcome to Ajay Surya's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?
-</p>
 
 ---
-<div align="center">
 
-<h2> What I'm up to: </h2>
+ ### 🧐 More About Me:
 <div align = "left">
   👀 I am an Artificial Intelligence and Data Science enthusiast<br>
   🤖 Currently practising Machine Learning and its applications<br>
   🫂 Looking for a collaborator on DS and ML projects<br> 
   📖 I'm finding opportunities for research internships in Machine Learning<br>
 
-<h3 align="center">Data Science | Machine Learning | Image Processing</h3>
+<h2> What I'm up to: </h2>
 
+<h3 align="center">Data Science | Machine Learning | Image Processing</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 👩‍💻 Tech Stack
