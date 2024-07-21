@@ -16,7 +16,6 @@
   🤖 Currently practising Machine Learning and its applications<br>
   🫂 Looking for a collaborator on DS and ML projects<br> 
   📖 I'm finding opportunities for research internships in Machine Learning<br>
-  My portfolio: https://1niihafzsuz3gjxs2uezdw.on.drv.tw/www.MyPortfolio/#portfolio
 
 <h2> What I'm up to: </h2>
 
