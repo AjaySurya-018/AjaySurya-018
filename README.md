@@ -26,7 +26,7 @@ I have contributed to the field of Machine Learning and Natural Language Process
    - Accepted at the 2024 International Conference on Advanced Computing and Communication Systems (ICACCS)  
    - Yet to be published in IEEE Explore
 
-2. **[Interpretable Mental Health Detection and Classification from Social Media Text Using Kolmogorov Arnold Networks]([link-to-paper-2](https://drive.google.com/file/d/1tJ2vtALJktQuCa37XmU-XHjOP7up-H6m/view?usp=sharing))**  
+2. **[Interpretable Mental Health Detection and Classification from Social Media Text Using Kolmogorov Arnold Networks](https://drive.google.com/file/d/1tJ2vtALJktQuCa37XmU-XHjOP7up-H6m/view?usp=sharing)**  
    - Submitted to the 7th International Conference on Natural Language and Speech Processing
 
 ## 👩‍💻 Tech Stack
