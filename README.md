@@ -9,28 +9,27 @@
 
 ---
 
+<h2> What I'm up to: </h2>
+
+<h3 align="center">Data Science | Machine Learning | Image Processing</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
  ### 🧐 More About Me:
 <div align = "left">
   👀 I am an Artificial Intelligence and Data Science enthusiast<br>
   🤖 Currently practising Machine Learning and its applications<br>
   🫂 Looking for a collaborator on DS and ML projects<br> 
-  📖 I'm finding opportunities for research internships in Machine Learning<br>
 
-### Publications
+### 📖Publications
 
 I have contributed to the field of Machine Learning and Natural Language Processing with the following research papers:
 
-1. **Enhancing Power Quality Disturbance Classification through Ensemble Learning and Statistical Techniques**  
+1. **[Enhancing Power Quality Disturbance Classification through Ensemble Learning and Statistical Techniques](link-to-paper-1)**  
    - Accepted at the 2024 International Conference on Advanced Computing and Communication Systems (ICACCS)  
    - Yet to be published in IEEE Explore
 
-2. **Interpretable Mental Health Detection and Classification from Social Media Text Using Kolmogorov Arnold Networks**  
+2. **[Interpretable Mental Health Detection and Classification from Social Media Text Using Kolmogorov Arnold Networks](link-to-paper-2)**  
    - Submitted to the 7th International Conference on Natural Language and Speech Processing
-
-<h2> What I'm up to: </h2>
-
-<h3 align="center">Data Science | Machine Learning | Image Processing</h3>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 👩‍💻 Tech Stack
 ### Languages and tools I work with
