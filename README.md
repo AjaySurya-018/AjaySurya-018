@@ -9,8 +9,6 @@
 
 ---
 
-<h2> What I'm up to: </h2>
-
 <h3 align="center">Data Science | Machine Learning | Image Processing</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
