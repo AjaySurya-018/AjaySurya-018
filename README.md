@@ -16,6 +16,17 @@
   🫂 Looking for a collaborator on DS and ML projects<br> 
   📖 I'm finding opportunities for research internships in Machine Learning<br>
 
+### Publications
+
+I have contributed to the field of Machine Learning and Natural Language Processing with the following research papers:
+
+1. **Enhancing Power Quality Disturbance Classification through Ensemble Learning and Statistical Techniques**  
+   - Accepted at the 2024 International Conference on Advanced Computing and Communication Systems (ICACCS)  
+   - Yet to be published in IEEE Explore
+
+2. **Interpretable Mental Health Detection and Classification from Social Media Text Using Kolmogorov Arnold Networks**  
+   - Submitted to the 7th International Conference on Natural Language and Speech Processing
+
 <h2> What I'm up to: </h2>
 
 <h3 align="center">Data Science | Machine Learning | Image Processing</h3>
