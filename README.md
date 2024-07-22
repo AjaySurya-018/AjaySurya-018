@@ -9,7 +9,7 @@
 
 ---
 
-<h3 align="center">Data Science | Machine Learning | Image Processing</h3>
+<h3 align="center">My Interests: Data Science | Machine Learning | Image Processing</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
  ### 🧐 More About Me:
