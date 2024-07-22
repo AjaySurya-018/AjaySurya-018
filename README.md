@@ -11,8 +11,8 @@
  ### 🧐 More About Me:
 <div align = "left">
   👀 I am an Artificial Intelligence and Data Science enthusiast<br>
-  🤖 Currently practising Machine Learning and its applications<br>
-  🫂 Looking for a collaborator on DS and ML projects<br> 
+  🤖 Currently practising Machine Learning (ML) and its applications<br>
+  🫂 Looking for a collaborator on Data Science and ML projects<br> 
 
 ### 📖Publications
 
