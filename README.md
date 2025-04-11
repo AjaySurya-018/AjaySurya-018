@@ -74,11 +74,32 @@ me.say_hi()
 
 ## 📚 Recent Publications
 
-- **Exploring Komlogrov Arnold Networks for Interpretable Mental Health Detection**  
-  *Accepted at ICON 2024*
-  
-- **Enhancing Power Quality Disturbance Classification through Ensemble Learning**  
-  *Published at ICACCS 2024*
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Exploring Komlogrov Arnold Networks</h3>
+      <p align="center">
+        <a href="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/KAN_paper.pdf" target="_blank">
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/KAN_preview.jpg" width="100%" alt="KAN Paper"/>
+        </a>
+        <p align="center">
+          <em>Accepted at ICON 2024</em>
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Power Quality Disturbance Classification</h3>
+      <p align="center">
+        <a href="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/PowerQuality_paper.pdf" target="_blank">
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/PQ.jpg" width="100%" alt="Power Quality Paper"/>
+        </a>
+        <p align="center">
+          <em>Published at ICACCS 2024</em>
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
   
 - **YOLOv10 for Enhanced Trypnosome Detection**
 - *Submitted as a chapter in the book: Decoding Medical Images: Enhancement, Restoration, Reconstruction by River Publisher*
