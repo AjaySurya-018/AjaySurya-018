@@ -50,7 +50,7 @@ me.say_hi()
     <td width="50%">
       <h3 align="center">Evalu8: AI-powered Academic Evaluation</h3>
       <p align="center">
-        <a href="https://github.com/username/evalu8" target="_blank">
+        <a href="https://github.com/AjaySurya-018/Evalu8" target="_blank">
           <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/Evalu8.jpg" width="100%" alt="Evalu8 Project"/>
         </a>
         <p align="center">
@@ -61,7 +61,7 @@ me.say_hi()
     <td width="50%">
       <h3 align="center">Patrolling Robot with ROS2</h3>
       <p align="center">
-        <a href="https://github.com/username/patrol-robot" target="_blank">
+        <a href="https://drive.google.com/file/d/1Q-EebLjk3LB6w6Juf0DlwoWUz15j67aS/view" target="_blank">
           <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/Patrol_robot.jpg" width="100%" alt="Patrol Robot"/>
         </a>
         <p align="center">
