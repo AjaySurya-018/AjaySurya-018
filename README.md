@@ -77,13 +77,13 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">B.Tech Final Project: Hate Speech Detection in Telugu</h3>
+      <h3 align="center">Hate Speech Detection in Telugu</h3>
       <p align="center">
         <a href="https://drive.google.com/file/d/1nr7iWR-7FoertVhk17tE5mNRx7uubNJa/view?usp=sharing" target="_blank">
           <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/HS.jpg" width="100%" alt="B.Tech Final Project"/>
         </a>
         <p align="center">
-          <em>Under Review at ACL 2024</em>
+          <em>B.Tech Final Project</em>
         </p>
       </p>
     </td>
