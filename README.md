@@ -77,6 +77,30 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Advanced Transformer Architectures for Low-Resource NLP</h3>
+      <p align="center">
+        <a href="https://drive.google.com/file/d/example_link_1" target="_blank">
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/transformer_paper.jpg" width="100%" alt="Transformer Paper"/>
+        </a>
+        <p align="center">
+          <em>Under Review at ACL 2024</em>
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">YOLOv10 for Enhanced Trypnosome Detection</h3>
+      <p align="center">
+        <a href="https://drive.google.com/file/d/1q48mAz_oWdl7oheeyEKb8YVFlwvp5Fy0/view?usp=sharing" target="_blank">
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/yolo.jpg" width="100%" alt="RL Robotics Paper"/>
+        </a>
+        <p align="center">
+          <em>Submitted as Book Chapter: Decoding Medical Images: Enhancement, Restoration, Reconstruction by River Publisher</em>
+        </p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">Exploring Komlogrov Arnold Networks</h3>
       <p align="center">
         <a href="https://drive.google.com/file/d/1tJ2vtALJktQuCa37XmU-XHjOP7up-H6m/view?usp=sharing" target="_blank">
@@ -100,9 +124,6 @@ me.say_hi()
     </td>
   </tr>
 </table>
-  
-- **YOLOv10 for Enhanced Trypnosome Detection**
-- *Submitted as a chapter in the book: Decoding Medical Images: Enhancement, Restoration, Reconstruction by River Publisher*
 
 ## 🏆 Certifications & Achievements
 
