@@ -19,9 +19,8 @@ class AjaySurya:
     def __init__(self):
         self.name = "Ajay Surya"
         self.education = "B.Tech in CSE (AI), Amrita Vishwa Vidyapeetham"
-        self.interests = ["Machine Learning", "NLP", "XAI", "Robotics"]
-        self.currently_working_on = "AI-powered Academic Evaluation Platform"
-        self.learning = "Reinforcement Learning & LLM Applications"
+        self.interests = ["Agile Software Development","Cloud", "Machine Learning", "NLP"]
+        self.currently_working_on = "Cloud Data Platform @ Guidewire Software"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
@@ -81,13 +80,9 @@ me.say_hi()
   
 - **Enhancing Power Quality Disturbance Classification through Ensemble Learning**  
   *Published at ICACCS 2024*
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajaysurya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaysurya&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  
+- **YOLOv10 for Enhanced Trypnosome Detection**
+- *Submitted as a chapter in the book: Decoding Medical Images: Enhancement, Restoration, Reconstruction by River Publisher*
 
 ## 🏆 Certifications & Achievements
 
@@ -98,14 +93,13 @@ me.say_hi()
 
 ## 🔍 Currently Exploring
 
-- 🤖 Large Language Models & their applications in education and healthcare
-- 🧠 Explainable AI (XAI) techniques for critical systems
-- 🚀 ROS2 and autonomous robotics applications
-- 🌐 Full-stack development for AI applications
+- 🌐 Full Stack Developemt (Java + SpringBoot) 
+- 🔄 CI/CD pipelines with TeamCity for automated testing and deployment
+- 🚀 Large Language Models & their applications
+- ☸️ Kubernetes for containerized application orchestration and scaling AI workloads 
+
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/ajaysurya/ajaysurya/blob/output/github-contribution-grid-snake.svg)
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
