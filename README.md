@@ -107,7 +107,7 @@ me.say_hi()
           <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/KAN.jpg" width="100%" alt="KAN Paper"/>
         </a>
         <p align="center">
-          <em>Accepted at ICON 2024</em>
+          <em>Published in ACL Anthology as a part of ICON 2024</em>
         </p>
       </p>
     </td>
