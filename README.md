@@ -2,11 +2,11 @@
 
 <div align="center">
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Engineer%20%7C%20ML%20Enthusiast&fontSize=40&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer%20%7C%20ML%20Enthusiast&fontSize=40&animation=fadeIn)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay-surya/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay018/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:j.ajaysurya.11@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=github)](https://github.io)
+  [![Phone](https://img.shields.io/badge/Phone-+91_93955_51719-green?style=for-the-badge&logo=phone)](tel:+919395551719)
 
 </div>
 
