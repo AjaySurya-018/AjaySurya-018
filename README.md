@@ -79,8 +79,8 @@ me.say_hi()
     <td width="50%">
       <h3 align="center">Exploring Komlogrov Arnold Networks</h3>
       <p align="center">
-        <a href="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/KAN_paper.pdf" target="_blank">
-          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/KAN_preview.jpg" width="100%" alt="KAN Paper"/>
+        <a href="https://drive.google.com/file/d/1tJ2vtALJktQuCa37XmU-XHjOP7up-H6m/view?usp=sharing" target="_blank">
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/KANjpg" width="100%" alt="KAN Paper"/>
         </a>
         <p align="center">
           <em>Accepted at ICON 2024</em>
