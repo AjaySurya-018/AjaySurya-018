@@ -118,7 +118,7 @@ me.say_hi()
           <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/PQ.jpg" width="100%" alt="Power Quality Paper"/>
         </a>
         <p align="center">
-          <em>Published at ICACCS 2024</em>
+          <em>Published in IEEE Explore as a part of ICACCS 2024</em>
         </p>
       </p>
     </td>
