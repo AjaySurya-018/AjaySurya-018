@@ -43,7 +43,7 @@ me.say_hi()
   
 </div>
 
-## 🔭 Current Projects
+## 🔭 Projects
 
 <table>
   <tr>
@@ -51,7 +51,7 @@ me.say_hi()
       <h3 align="center">Evalu8: AI-powered Academic Evaluation</h3>
       <p align="center">
         <a href="https://github.com/username/evalu8" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=Evalu8+Platform](https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/Evalu8.jpg" width="100%" alt="Evalu8 Project"/>
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/Evalu8.jpg" width="100%" alt="Evalu8 Project"/>
         </a>
         <p align="center">
           An end-to-end solution for automating academic test evaluation with LLMs and custom management workflows.
@@ -62,7 +62,7 @@ me.say_hi()
       <h3 align="center">Patrolling Robot with ROS2</h3>
       <p align="center">
         <a href="https://github.com/username/patrol-robot" target="_blank">
-          <img src="https://via.placeholder.com/300x180?text=Patrol+Robot" width="100%" alt="Patrol Robot"/>
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/Patrolling%20Robot%20Simulation.mp4" width="100%" alt="Patrol Robot"/>
         </a>
         <p align="center">
           Autonomous patrolling robot using ROS2, SLAM, and navigation stack for environment mapping and inspection.
