@@ -62,7 +62,7 @@ me.say_hi()
       <h3 align="center">Patrolling Robot with ROS2</h3>
       <p align="center">
         <a href="https://github.com/username/patrol-robot" target="_blank">
-          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/Patrolling%20Robot%20Simulation.mp4" width="100%" alt="Patrol Robot"/>
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/Patrol_robot.jpg" width="100%" alt="Patrol Robot"/>
         </a>
         <p align="center">
           Autonomous patrolling robot using ROS2, SLAM, and navigation stack for environment mapping and inspection.
