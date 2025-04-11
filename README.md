@@ -12,7 +12,7 @@
 
 ## 🤖 About Me
 
-I'm a Computer Science & AI student at Amrita Vishwa Vidyapeetham with a passion for developing AI-powered solutions. Currently working as a Software Engineer Intern at Guidewire Software, I love exploring the intersection of machine learning, interpretable AI, and software engineering.
+I'm a Computer Science & AI student at Amrita Vishwa Vidyapeetham with a passion for developing AI-powered solutions. Currently working as a Software Engineer Intern at Guidewire Software, I love exploring the intersection of softtware engineering & machine learning.
 
 ```python
 class AjaySurya:
