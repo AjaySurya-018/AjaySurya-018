@@ -169,7 +169,7 @@ me.say_hi()
       <h3 align="center">YOLOv10 for Enhanced Trypnosome Detection</h3>
       <p align="center">
         <a href="https://drive.google.com/file/d/1q48mAz_oWdl7oheeyEKb8YVFlwvp5Fy0/view?usp=sharing" target="_blank">
-          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/yolo.jpg" width="100%" alt="YOLOv10 Paper"/>
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/YOLO.png" width="100%" alt="YOLOv10 Paper"/>
         </a>
         <p align="center">
           <em>Book Chapter: Decoding Medical Images: Enhancement, Restoration, Reconstruction</em>
