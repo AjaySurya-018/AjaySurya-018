@@ -208,8 +208,6 @@ me.say_hi()
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/AjaySurya-018"/> 
-  
   **"The best way to predict the future is to create it."**
   
 </div>
