@@ -203,20 +203,7 @@ me.say_hi()
   </tr>
 </table>
 
-## 🏆 Certifications & Achievements
-
-- 🧠 IBM Applied AI Professional Certification
-- 🤖 DeepLearning.AI TensorFlow Developer Certification
-- 👑 Lead Volunteer, C20 India Gender Equality
-- 🎓 College Head Boy during Higher Secondary education
-
-## 🔍 Currently Exploring
-
-- 🌐 Full Stack Developemt (Java + SpringBoot) 
-- 🔄 CI/CD pipelines with TeamCity for automated testing and deployment
-- 🚀 Large Language Models & their applications
-- ☸️ Kubernetes for containerized application orchestration and scaling AI workloads 
-
+![Snake animation](https://github.com/AjaySurya-018/AjaySurya-018/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   
