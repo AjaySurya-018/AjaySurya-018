@@ -18,12 +18,23 @@ Computer Science graduate specializing in Artificial Intelligence from Amrita Un
 class AjaySurya:
     def __init__(self):
         self.name = "Ajay Surya"
-        self.education = "B.Tech in CSE (AI), Amrita Vishwa Vidyapeetham"
-        self.interests = ["Agile Software Development","Cloud", "Machine Learning", "NLP"]
-        self.currently_working_on = "Cloud Data Platform @ Guidewire Software"
+        self.education = "B.Tech in Computer Science (AI Specialization), Amrita Vishwa Vidyapeetham"
         
+        self.research_experience = {
+            "publications": 3,
+            "book_chapter": "YOLO v10 for Trypanosome Detection",
+            "focus": ["Explainable AI", "Natural Language Processing", "Computer Vision"]
+        }
+       
+        self.profile_highlights = [
+            "Graduated Top 5% of class",
+            "Strong foundation in Linear Algebra, Calculus, Statistics, Probability and Data Structures",
+            "Building real-world AI products bridging software and ML"
+        ]
+
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+        print("Thanks for dropping by!")
+        print("Let's build innovative AI-powered solutions and explore new frontiers together.")
 
 me = AjaySurya()
 me.say_hi()
