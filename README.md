@@ -6,7 +6,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay018/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:j.ajaysurya.11@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-+91_93955_51719-green?style=for-the-badge&logo=phone)](tel:+919395551719)
+  [![Website](https://img.shields.io/badge/Portfolio-ajaysurya.com-blue?style=for-the-badge&logo=window&logoColor=white)](https://ajaysurya.com)
 
 </div>
 
@@ -40,19 +40,117 @@ me = AjaySurya()
 me.say_hi()
 ```
 
-## 🚀 Skills & Technologies
+## 🚀 Favorite Tech
 
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-  
-</div>
+> **Tools, languages, and other things that I like to work with.**
+
+<table width="100%">
+<tr>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="Scala" />
+<br>Scala
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB" />
+<br>MATLAB
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+<tr>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=scikitlearn" width="48" height="48" alt="Scikit Learn" />
+<br>Scikit-Learn
+</td>
+<td align="center" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<br>NumPy
+</td>
+<td align="center" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br>Pandas
+</td>
+<td align="center" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+<br>Matplotlib
+</td>
+</tr>
+<tr>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+<br>Terraform
+</td>
+<td align="center" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" height="48" alt="Spark" />
+<br>Spark
+</td>
+<td align="center" >
+<img src="https://www.svgrepo.com/show/353935/jfrog.svg" width="48" height="48" alt="TeamCity" />
+<br>TeamCity
+</td>
+</tr>
+<tr>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" >
+<img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
+<br>DynamoDB
+</td>
+<td align="center" >
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="48" height="48" alt="S3" />
+<br>AWS S3
+</td>
+<td align="center" >
+<img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" width="48" height="48" alt="EC2" />
+<br>AWS EC2
+</td>
+<td align="center" >
+<img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" width="48" height="48" alt="Datadog" />
+<br>Datadog
+</td>
+<td align="center" >
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+<br>Hugging Face
+</td>
+</tr>
+</table>
+
 
 ## 🔭 Projects
 
