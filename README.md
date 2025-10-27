@@ -12,7 +12,7 @@
 
 ## 🤖 About Me
 
-I'm a Computer Science-AI graduate from Amrita University with a passion for developing AI-powered solutions. Currently working as a Software Engineer Intern at Guidewire Software, I love exploring the intersection of Softtware Engineering & Machine Learning.
+Computer Science graduate specializing in Artificial Intelligence from Amrita University, passionate about building scalable AI-powered products. Currently working full-time at Guidewire Software as a Software Engineer (previously intern), focusing on full-stack development with Java, React, and AWS.
 
 ```python
 class AjaySurya:
