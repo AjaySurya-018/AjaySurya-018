@@ -182,7 +182,7 @@ me.say_hi()
       <h3 align="center">Exploring Komlogrov Arnold Networks</h3>
       <p align="center">
         <a href="https://aclanthology.org/2024.icon-1.23/" target="_blank">
-          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/KAN.jpg" width="100%" alt="KAN Paper"/>
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/ACL.png" width="100%" alt="KAN Paper"/>
         </a>
         <p align="center">
           <em>Published in ACL Anthology as a part of ICON 2024</em>
