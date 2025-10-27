@@ -203,13 +203,12 @@ me.say_hi()
   </tr>
 </table>
 
-![Snake animation](https://github.com/AjaySurya-018/AjaySurya-018/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
-  ![Visitor Count](https://profile-counter.glitch.me/ajaysurya/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/{AjaySurya-018}/count.svg)
   
   **"The best way to predict the future is to create it."**
   
