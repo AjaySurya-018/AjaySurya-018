@@ -192,7 +192,7 @@ me.say_hi()
     <td width="50%">
       <h3 align="center">Power Quality Disturbance Classification</h3>
       <p align="center">
-        <a href="https://drive.google.com/file/d/1hQNasWYH6eC7REM6c_jhLCtvVeb2SHmz/view?usp=sharing" target="_blank">
+        <a href="https://ieeexplore.ieee.org/document/10716931" target="_blank">
           <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/PQ.jpg" width="100%" alt="Power Quality Paper"/>
         </a>
         <p align="center">
