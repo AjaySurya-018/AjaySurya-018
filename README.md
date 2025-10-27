@@ -155,7 +155,7 @@ me.say_hi()
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Hate Speech Detection in Telugu</h3>
+      <h3 align="center">Multimodal Hate Speech Classification - Telugu</h3>
       <p align="center">
         <a href="https://drive.google.com/file/d/1nr7iWR-7FoertVhk17tE5mNRx7uubNJa/view?usp=sharing" target="_blank">
           <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/HS.jpg" width="100%" alt="B.Tech Final Project"/>
@@ -172,7 +172,7 @@ me.say_hi()
           <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/yolo.jpg" width="100%" alt="YOLOv10 Paper"/>
         </a>
         <p align="center">
-          <em>Submitted as Book Chapter: Decoding Medical Images: Enhancement, Restoration, Reconstruction by River Publisher</em>
+          <em>Book Chapter: Decoding Medical Images: Enhancement, Restoration, Reconstruction</em>
         </p>
       </p>
     </td>
@@ -193,7 +193,7 @@ me.say_hi()
       <h3 align="center">Power Quality Disturbance Classification</h3>
       <p align="center">
         <a href="https://ieeexplore.ieee.org/document/10716931" target="_blank">
-          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/PQ.jpg" width="100%" alt="Power Quality Paper"/>
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/IEEE.png" width="100%" alt="Power Quality Paper"/>
         </a>
         <p align="center">
           <em>Published in IEEE Explore as a part of ICACCS 2024</em>
