@@ -22,7 +22,7 @@ class AjaySurya:
         
         self.research_experience = {
             "publications": 3,
-            "book_chapter": "YOLO v10 for Trypanosome Detection",
+            "book_chapter": "YOLOv10 for Trypanosome Detection",
             "focus": ["Explainable AI", "Natural Language Processing", "Computer Vision"]
         }
        
