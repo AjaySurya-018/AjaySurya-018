@@ -158,7 +158,7 @@ me.say_hi()
       <h3 align="center">Multimodal Hate Speech Classification - Telugu</h3>
       <p align="center">
         <a href="https://drive.google.com/file/d/1pxtvTvPzgrZqk4TLq50K1fCvyCRa9Y_K/view?usp=sharing" target="_blank">
-          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/final_pro.png" width="100%" alt="B.Tech Final Project"/>
+          <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/project_final.png" width="100%" alt="B.Tech Final Project"/>
         </a>
         <p align="center">
           <em>B.Tech Final Project</em>
