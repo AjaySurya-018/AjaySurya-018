@@ -21,7 +21,7 @@ class AjaySurya:
         self.education = "B.Tech in Computer Science (AI Specialization), Amrita Vishwa Vidyapeetham"
         
         self.research_experience = {
-            "publications": 3,
+            "publications": 4,
             "book_chapter": "Audio Driven Detection of Hate Speech in Telugu, YOLOv10 for Trypanosome Detection",
             "focus": ["Explainable AI", "Natural Language Processing", "Multimodal Learning"]
         }
