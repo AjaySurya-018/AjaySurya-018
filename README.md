@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Software%20Engineer%20%7C%20AI%20Enthusiast&fontSize=40&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Applied%20AI%20%7C%20Software%20Engineer&fontSize=40&animation=fadeIn)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay018/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:j.ajaysurya.11@gmail.com)
