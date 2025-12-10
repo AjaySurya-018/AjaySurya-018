@@ -6,7 +6,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay018/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:j.ajaysurya.11@gmail.com)
-  [![Website](https://img.shields.io/badge/Scholar-ajaysurya.com-blue?style=for-the-badge&logo=window&logoColor=white)](https://scholar.google.com/citations?user=vQx___4AAAAJ&hl=en)
+  [![Website](https://img.shields.io/badge/Scholar-Research-blue?style=for-the-badge&logo=window&logoColor=white)](https://scholar.google.com/citations?user=vQx___4AAAAJ&hl=en)
 
 </div>
 
