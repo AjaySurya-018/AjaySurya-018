@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Applied%20AI%20%7C%20Software%20Engineer&fontSize=40&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Researcher%20%7C%20Software%20Engineer&fontSize=40&animation=fadeIn)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay018/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:j.ajaysurya.11@gmail.com)
@@ -22,14 +22,13 @@ class AjaySurya:
         
         self.research_experience = {
             "publications": 3,
-            "book_chapter": "YOLOv10 for Trypanosome Detection",
-            "focus": ["Explainable AI", "Natural Language Processing", "Computer Vision"]
+            "book_chapter": "Audio Driven Detection of Hate Speech in Telugu: , YOLOv10 for Trypanosome Detection",
+            "focus": ["Explainable AI", "Natural Language Processing", "Multimodal Learning"]
         }
        
         self.profile_highlights = [
-            "Graduated Top 5% of class",
+            "First Class with Distinction",
             "Strong foundation in Linear Algebra, Calculus, Statistics, Probability and Data Structures",
-            "Building real-world AI products bridging software and ML"
         ]
 
     def say_hi(self):
