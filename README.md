@@ -22,7 +22,7 @@ class AjaySurya:
         
         self.research_experience = {
             "publications": 4,
-            "book_chapter": "Audio Driven Detection of Hate Speech in Telugu, YOLOv10 for Trypanosome Detection",
+            "book_chapter": ["Audio Driven Detection of Hate Speech in Telugu", "YOLOv10 for Trypanosome Detection"]
             "focus": ["Explainable AI", "Natural Language Processing", "Multimodal Learning"]
         }
        
