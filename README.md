@@ -156,7 +156,7 @@ me.say_hi()
     <td width="50%">
       <h3 align="center">Audio Driven Hate Speech Detection</h3>
       <p align="center">
-        <a href="https://drive.google.com/file/d/1pxtvTvPzgrZqk4TLq50K1fCvyCRa9Y_K/view?usp=sharing" target="_blank">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-032-09917-4_3" target="_blank">
           <img src="https://github.com/AjaySurya-018/AjaySurya-018/blob/main/images/project_final.png" width="100%" alt="B.Tech Final Project"/>
         </a>
         <p align="center">
