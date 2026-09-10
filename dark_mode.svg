@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 490" width="920" height="490">
+  <style>
+    .terminal { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 13px; fill: #58a6ff; }
+    .ascii { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 11px; fill: #7ee787; font-weight: bold; white-space: pre; }
+    .label { fill: #8b949e; }
+    .dots { fill: #30363d; }
+    .value { fill: #f0883e; font-weight: 600; }
+    .title { fill: #58a6ff; font-weight: bold; }
+  </style>
+
+  <rect width="920" height="490" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- LEFT: 30 lines of ASCII Art -->
+  <text x="30" y="45" class="ascii">
+    <tspan x="30" dy="0">⣾⣿⣾⣿⣾⣿⣾⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡻⡻⣻⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾</tspan>
+    <tspan x="30" dy="14">⣾⣿⣾⣿⣾⣿⣾⣿⣿⣿⣿⣿⣿⡿⡿⡋⡋⠊⡢⡪⣪⣺⣢⡲⣪⠺⡪⡻⡻⡻⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾</tspan>
+    <tspan x="30" dy="14">⣾⣿⣾⣿⣾⣿⣿⣿⣿⣿⡿⠋⡢⣢⣢⣺⣾⡲⣢⡢⡪⡊⡪⡪⡪⡂⠂⠊⠢⡀⠄⡀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣾⣿⣾⣿⣿⣿⣿⣿⡿⠋⡀⠄⠊⠺⡪⡊⠊⠊⡪⠂⠄⠄⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣾⣿⣾⣿⣿⣿⣿⡿⠂⠄⠄⠄⠄⡢⡢⡂⠂⠄⠂⡂⡢⡢⡢⡂⡀⡀⡀⠄⡀⠄⠄⠄⠄⠄⠄⠚⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣾⣿⣿⣿⣿⣿⣿⠃⠄⠄⠄⠄⠄⡂⡠⡀⡀⡂⡀⡈⡢⣪⣢⣢⣢⡂⡂⡪⣢⡂⠄⠄⡀⠠⡀⡊⣺⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⡧⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⠂⣢⣪⣺⣺⣺⣿⣾⣺⣮⣪⣪⡂⡀⠄⠄⠄⠄⡪⣾⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣧⠄⠄⠄⠄⠄⡀⡀⡠⡂⣢⣪⣪⣾⣾⣺⣾⣿⣿⣿⣾⣺⣮⡪⡂⠄⠄⠄⠄⠨⣾⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⡂⠄⠄⠄⡂⡢⡪⡪⡺⡺⡺⡺⣺⣾⣿⣿⡻⡿⡻⡿⡿⡿⣾⡢⡀⠄⠄⠄⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⡆⠄⠄⠄⡂⡀⣠⣠⣠⣠⡀⡀⡊⡪⡺⡪⡂⡠⡠⣠⣠⣢⡂⡀⡂⠄⠄⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⡀⠄⠈⡢⡪⡊⡠⡊⠄⡊⡪⡪⡠⡦⡀⡊⡂⡂⠄⠨⡊⡺⣪⡪⠄⠄⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⡫⡀⡀⠠⡪⣢⣢⣢⣢⣢⣢⡪⣾⣿⣦⣢⣢⣢⣢⣪⣢⣪⣮⣺⡂⡠⣪⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⡊⣪⡂⢠⣾⣾⣿⣿⣿⣿⣻⣾⣾⣿⣿⣿⣿⣾⡻⣿⣿⣿⣿⣿⣿⡆⡪⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⡪⡂⡨⡻⣺⣻⣾⡻⣾⡿⡊⠂⠪⡺⡂⠊⠊⡺⣮⡺⣺⣻⣾⣻⡂⣪⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⣮⡂⠄⡪⣪⡺⡊⠚⡊⡪⡢⡠⡠⡢⡠⡢⡠⡺⡢⠊⡪⣺⣺⡺⡂⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣪⡂⠊⡪⡪⡢⡢⣢⡀⣢⣲⣢⡢⣢⣲⣢⣢⣠⡂⣢⡺⡪⡪⣢⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⡂⡪⡪⡪⣪⣺⣪⡪⡈⡈⡈⣺⣺⣿⣾⡪⡪⡪⡪⡂⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⠊⡂⠂⡪⡻⣿⣿⣾⣾⣾⣿⣿⣿⣿⡊⡢⡊⡂⣺⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⡀⠄⠄⠂⠪⠊⡪⠪⡪⡊⡊⠊⡂⠂⠄⡀⣪⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡊⡢⡂⡀⠄⠄⠄⡀⡀⡀⡀⠄⠄⠄⡀⣢⡪⣪⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡎⡢⡪⡢⡂⡢⡢⡢⡂⡢⡢⡢⡢⣢⡪⣪⡪⡪⡻⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⡊⡪⡪⣪⡪⣪⡪⣪⣺⣪⣪⣪⣺⣪⡺⣪⡺⣪⡪⡢⡂⠈⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⣿⣿⣿⣿⡿⠋⠉⠄⠄⠠⡊⡪⡪⣪⡺⣪⣺⣪⣺⣪⣺⣪⣺⣪⣺⣪⣺⣪⡪⣪⡂⠄⠄⠄⠈⠈⠻⡿⣿⣿⣿⣿</tspan>
+    <tspan x="30" dy="14">⣿⣿⣿⡿⡿⠋⠄⠄⠄⠄⠄⠄⠄⠪⣪⡪⣪⡺⣪⣺⣪⣺⣺⣺⣺⣺⣪⣺⣪⣺⣪⡺⠊⠄⠄⠄⠄⠄⡀⠄⠄⠄⠈⠛⠻</tspan>
+    <tspan x="30" dy="14">⡿⠛⠉⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠺⣪⡺⣪⡺⣪⡺⣺⡺⣪⡺⣪⡺⣪⡺⠊⠄⠄⠄⠄⠄⡀⠄⡀⠄⡀⠄⠄⠄⡀</tspan>
+    <tspan x="30" dy="14">⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⠪⠪⡪⡪⣪⡪⡪⡺⠪⠚⠈⠄⠄⠄⠄⠄⠄⠄⡀⠄⠄⠄⠄⠄⠄⠄⠄</tspan>
+    <tspan x="30" dy="14">⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⠄⡀⠄⠄⠄⠄⠄⠄</tspan>
+    <tspan x="30" dy="14">⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⠄⡀⠄⡀⠄⠄⠄⠄</tspan>
+    <tspan x="30" dy="14">⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⠄⡀⠄⠄⠄⠄</tspan>
+    <tspan x="30" dy="14">⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⠄⡀⠄⠄⠄⠄</tspan>
+  </text>
+
+  <!-- RIGHT: System Monitor Data (Managed by today.py) -->
+  <g transform="translate(530, 110)" class="terminal">
+    <text x="0" y="0" class="title">user@terminal</text>
+    <text x="0" y="18" class="dots">--------------------------------------------</text>
+
+    <text x="0" y="48" class="label">OS</text>
+    <text x="18" y="48" class="dots"> ........................................ </text>
+    <text x="320" y="48" class="value" text-anchor="end">Ubuntu Linux x86_64</text>
+
+    <text x="0" y="74" class="label">Uptime</text>
+    <text x="46" y="74" id="age_data_dots" class="dots"> .................................... </text>
+    <text x="320" y="74" id="age_data" class="value" text-anchor="end">Calculating...</text>
+
+    <text x="0" y="100" class="label">Total Commits</text>
+    <text x="96" y="100" id="commit_data_dots" class="dots"> ............................ </text>
+    <text x="320" y="100" id="commit_data" class="value" text-anchor="end">0</text>
+
+    <text x="0" y="126" class="label">Repositories</text>
+    <text x="90" y="126" id="repo_data_dots" class="dots"> ............................. </text>
+    <text x="320" y="126" id="repo_data" class="value" text-anchor="end">0</text>
+
+    <text x="0" y="152" class="label">Stars Earned</text>
+    <text x="90" y="152" id="star_data_dots" class="dots"> ............................. </text>
+    <text x="320" y="152" id="star_data" class="value" text-anchor="end">0</text>
+
+    <text x="0" y="178" class="label">Followers</text>
+    <text x="68" y="178" id="follower_data_dots" class="dots"> ................................ </text>
+    <text x="320" y="178" id="follower_data" class="value" text-anchor="end">0</text>
+
+    <text x="0" y="204" class="label">Lines of Code</text>
+    <text x="96" y="204" id="loc_data_dots" class="dots"> ............................ </text>
+    <text x="320" y="204" id="loc_data" class="value" text-anchor="end">0</text>
+  </g>
+</svg>
