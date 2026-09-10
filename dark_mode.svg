@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 490" width="920" height="490">
   <style>
     .terminal { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 13px; fill: #58a6ff; }
-    .ascii { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 11px; fill: #7ee787; font-weight: bold; white-space: pre; }
+    .ascii { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; font-size: 11px; fill: #ffffff; font-weight: bold; white-space: pre; }
     .label { fill: #8b949e; }
     .dots { fill: #30363d; }
     .value { fill: #f0883e; font-weight: 600; }
@@ -10,7 +10,7 @@
 
   <rect width="920" height="490" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
 
-  <!-- LEFT: 30 lines of ASCII Art -->
+  <!-- LEFT: 30 lines of ASCII Art (Pure White) -->
   <text x="30" y="45" class="ascii">
     <tspan x="30" dy="0">⣾⣿⣾⣿⣾⣿⣾⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡻⡻⣻⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾</tspan>
     <tspan x="30" dy="14">⣾⣿⣾⣿⣾⣿⣾⣿⣿⣿⣿⣿⣿⡿⡿⡋⡋⠊⡢⡪⣪⣺⣢⡲⣪⠺⡪⡻⡻⡻⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾</tspan>
@@ -44,7 +44,7 @@
     <tspan x="30" dy="14">⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⡀⠄⡀⠄⠄⠄⠄</tspan>
   </text>
 
-  <!-- RIGHT: System Monitor Data (Managed by today.py) -->
+  <!-- RIGHT: System Monitor Data -->
   <g transform="translate(530, 110)" class="terminal">
     <text x="0" y="0" class="title">user@terminal</text>
     <text x="0" y="18" class="dots">--------------------------------------------</text>
