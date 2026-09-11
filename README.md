@@ -38,6 +38,7 @@ class AjaySurya:
 
 me = AjaySurya()
 me.say_hi()
+```
 
 ## 🚀 Favorite Tech
 
