@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AI%20Researcher%20%7C%20Software%20Engineer&fontSize=40&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Scientist%20%7C%20AI%20Engineer&fontSize=40&animation=fadeIn)
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay018/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:j.ajaysurya.11@gmail.com)
@@ -12,32 +12,32 @@
 
 ## 🤖 About Me
 
-Computer Science graduate specializing in Artificial Intelligence from Amrita University. Currently working full-time at Guidewire Software as a Software Engineer (previously intern), focusing on full-stack development with Java, React, and AWS.
+I'm a computer science graduate (AI specialization) who likes building machine learning systems — and being able to explain why they're worth building.
+
+During my bachelor's at Amrita University I worked as a research assistant across NLP, computer vision, and speech processing, and co-authored four papers in IEEE Xplore, the ACL Anthology, and a Springer book chapter. I then spent about 18 months at Guidewire on the Cloud Data Platform, writing Java micro-services on AWS with Kubernetes and Terraform, and building an internal AWS Bedrock plugin that cut manual testing effort by roughly 30%.
+
+Outside of work I keep building: an LLM tool to automate exam grading (Evalu8), a RAG assistant over Indian nutrition data (Bite2Burn), and custom Triton GPU kernels for deep learning operations.
+
+This September I'm starting the MSc in Data Science & AI for Business at École Polytechnique × HEC Paris, to pair the engineering with sharper business judgment.
+
+I'm currently looking for a **data science / AI internship** where I can build models and stay close to the decisions they inform.
 
 ```python
 class AjaySurya:
     def __init__(self):
-        self.name = "Ajay Surya"
-        self.education = "B.Tech in Computer Science (AI Specialization), Amrita Vishwa Vidyapeetham"
-        
-        self.research_experience = {
-            "publications": 4,
-            "book_chapter": ["Audio Driven Detection of Hate Speech in Telugu", "YOLOv10 for Trypanosome Detection"]
-            "focus": ["Explainable AI", "Natural Language Processing", "Multimodal Learning"]
-        }
-       
-        self.profile_highlights = [
-            "Bachelors: First Class with Distinction",
-            "Strong foundation in Linear Algebra, Calculus, Statistics, Probability and Data Structures",
-        ]
+        self.education   = "MSc Data Science & AI for Business, École Polytechnique × HEC Paris (2026–28)"
+        self.background  = "B.Tech in CS (AI Specialization), Amrita — First Class with Distinction"
+        self.experience  = "Software Engineer @ Guidewire (Cloud Data Platform)"
+        self.research    = {"publications": 4, "venues": ["IEEE Xplore", "ACL Anthology", "Springer"]}
+        self.focus       = ["Machine Learning", "NLP", "LLMs / RAG", "Computer Vision"]
+        self.currently   = "Seeking a Data Science / AI internship"
 
     def say_hi(self):
         print("Thanks for dropping by!")
-        print("Let's build innovative AI-powered solutions and explore new frontiers together.")
+        print("Let's build AI systems worth building.")
 
 me = AjaySurya()
 me.say_hi()
-```
 
 ## 🚀 Favorite Tech
 
