@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Ajay Surya
+# 👋 Hello World! I'm Ajay Jampana
 
 <div align="center">
   
